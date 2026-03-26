@@ -6,11 +6,11 @@ This repository contains two interconnected machine learning projects completed 
 Objective: To group customers based on their financial behavior and demographics to enable targeted marketing strategies.
 Tools & Library: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
-Methodology:
-  Data Preprocessing & Feature Scaling (StandardScaler), 
-  Dimensionality Reduction using Principal Component Analysis (PCA) for better visualization, 
-  Optimal cluster determination using the Elbow Method, 
-  Clustering execution using K-Means Algorithm.
+* Methodology:
+  * Data Preprocessing & Feature Scaling (StandardScaler), 
+  * Dimensionality Reduction using Principal Component Analysis (PCA) for better visualization, 
+  * Optimal cluster determination using the Elbow Method, 
+  * Clustering execution using K-Means Algorithm.
 
 Key Insight: Successfully identified distinct segments such as High-Value Professionals (Cluster 0) and Active Young Transactors (Cluster 1), providing a clear understanding of the customer base.
 
